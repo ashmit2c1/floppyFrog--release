@@ -6,7 +6,6 @@ Welcome to **Flopy Frog**, a delightful 2D platformer where you guide a frog thr
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Screenshots](#screenshots)
 - [Download](#download)
