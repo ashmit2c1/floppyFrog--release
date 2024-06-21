@@ -23,34 +23,6 @@ Flopy Frog is a simple yet entertaining 2D platform game where the player contro
 - **Beautiful Graphics**: Vibrant and colorful graphics that enhance the gaming experience.
 - **Built with Flutter Flame and Tiled**: Utilizes powerful game development tools for smooth and efficient performance.
 
-## Installation
-
-To run Flopy Frog on your local machine, follow these steps:
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/yourusername/flopy-frog.git
-    ```
-
-2. **Navigate to the project directory:**
-
-    ```bash
-    cd flopy-frog
-    ```
-
-3. **Install dependencies:**
-
-    ```bash
-    flutter pub get
-    ```
-
-4. **Run the game:**
-
-    ```bash
-    flutter run
-    ```
-
 ## How to Play
 
 1. **Start the Game**: Open Flopy Frog from the main menu.
